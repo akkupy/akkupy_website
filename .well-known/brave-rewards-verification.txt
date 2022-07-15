@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: akkupy.tech
+Token: a339600fa4e5b1bbc31668cf67c0b3225857bd07b7ab491a49411b8ec8cf4d19
